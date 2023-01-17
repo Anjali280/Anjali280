@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-Web Developer with the ability to adapt to both self-starting and collaborative environments while staying focused on achieving high-quality results under strict deadlines.
-
 * 🌍  I'm based in New Delhi , IN
 * ✉️  You can contact me at [mondalanjali0707@gmail.com](mailto:mondalanjali0707@gmail.com)
 * 🧠  I'm learning Backend Development
